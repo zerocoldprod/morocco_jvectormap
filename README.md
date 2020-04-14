@@ -1,6 +1,6 @@
 # JvectorMap of Morocco
 
-![Result](https://hamzazogarh.com/newsletter/map.png)
+![Result](https://hamzazogarh.com/github/mapMA.gif)
 
 ### Tech
 
