@@ -1,0 +1,1 @@
+# morocco_jvectormap
